@@ -24,5 +24,5 @@ During training, the model showed a **consistent decrease in loss** and **increa
 - **Epoch 5**: Loss ~0.15, Accuracy ~95%
 - **Final Epoch**: Loss ~0.09, Accuracy ~97%
 
-## This digit classification model has practical use in optical character recognition (OCR), automated check processing, reading handwritten documents, and number plate detection. It also serves as a foundational example for building more advanced image classification systems in real-world applications.
+This digit classification model has practical use in optical character recognition (OCR), automated check processing, reading handwritten documents, and number plate detection. It also serves as a foundational example for building more advanced image classification systems in real-world applications.
 
